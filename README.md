@@ -18,9 +18,9 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000].
+Open [http://localhost:3000](http://localhost:3000).
 
-##Quick Access
+## Quick Access
 - Portfolio Link:
 - Resume and referral letter can be found directly in /public foleder
 
