@@ -21,7 +21,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000).
 
 ## Quick Access
-- Portfolio Link:
+- Portfolio Link:[https://portfolio-rho-bice-53zy1hmp2n.vercel.app/](https://portfolio-rho-bice-53zy1hmp2n.vercel.app/)
 - Resume and referral letter can be found directly in /public foleder
 
 
